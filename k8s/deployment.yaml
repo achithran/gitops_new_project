@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: fastapi
-          image: 812161114709.dkr.ecr.ap-south-1.amazonaws.com/fastapi-gitops:v2
+          image: 812161114709.dkr.ecr.ap-south-1.amazonaws.com/fastapi-gitops:fdb3fc0ab9863f9217b605daf095f78610cc8503
 
           ports:
             - containerPort: 8000
